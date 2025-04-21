@@ -64,12 +64,12 @@ A Streamlit-based interactive simulator for experimenting with privacy-preservin
 ## 📸 Screenshots
 
 ### 🖥️ Streamlit Dashboard
-![Dashboard1](Screenshots/Privacy_preserving ML simulator ss 1.jpg)
-![Dashboard2](Screenshots/Privacy_preserving ML simulator ss 3.jpg)
+![Dashboard1](Screenshots/Privacy_preserving_ML_simulator_ss1.jpg)
+![Dashboard2](Screenshots/Privacy_preserving_ML_simulator_ss3.jpg)
 
 ### 📈 Privacy vs. Utility Chart
-![Chart1](Screenshots/Privacy_preserving ML simulator ss 2.jpg)
-![Chart2](Screenshots/Privacy_preserving ML simulator ss 4.jpg)
+![Chart1](Screenshots/Privacy_preserving_ML_simulator_ss2.jpg)
+![Chart2](Screenshots/Privacy_preserving_ML_simulator_ss4.jpg)
 
 
 
